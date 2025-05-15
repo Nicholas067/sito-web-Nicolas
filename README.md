@@ -1,8 +1,7 @@
 Ciao a tutti! 👋
 Questo è il repository del mio sito web dedicato ai giochi: https://github.com/
 Sul sito troverete una raccolta di diversi giochi con cui potrete divertirvi e allenare le vostre abilità!
-Come accedere al sito web:
-Potete visitare il sito web direttamente a questo indirizzo: nicolascassese.altervista.org
+Potete accedere al sitoweb direttamente da questo indirizzo: nicolascassese.altervista.org
 
 Istruzioni per giocare:
 Visitate l'indirizzo web indicato sopra.
